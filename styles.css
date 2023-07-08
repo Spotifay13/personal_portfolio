@@ -1,0 +1,14 @@
+.first_rectangle {
+    display: flex;
+    justify-content: center;
+    margin: 400;
+    padding: 200;
+    background-color: #5D536B;
+}
+
+.about_me {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: 200;
+}
