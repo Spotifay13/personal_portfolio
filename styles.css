@@ -1,14 +1,31 @@
-.first_rectangle {
-    display: flex;
-    justify-content: center;
-    margin: 400;
-    padding: 200;
-    background-color: #5D536B;
+body {
+    background-color: #2D3047;
+    color: #FCFFF7;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
 }
 
-.about_me {
-    display: flex;
-    justify-content: center;
-    color: white;
-    font-weight: 200;
+.box_one {
+    width: 450px;
+    text-align: center;
+    background-color: #202232;
+    padding: 40px;
+    border-radius: 15px;
+    border: 5px solid #202232;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: 5%;
+
+}
+
+.box_one h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.box_one h5 {
+    font-size: 30px;
+    font-weight: 100;
+    letter-spacing: 3px;
 }
